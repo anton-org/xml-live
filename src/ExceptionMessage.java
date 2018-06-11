@@ -1,22 +1,6 @@
-/**
- * Copyright 2011 Accenture. All Rights Reserved. Accenture Confidential and
- * Proprietary.
- * 
- * Disclosure and use of this source code is governed by contract with
- * Accenture. Any open source or third party source code referenced in this
- * source code is governed by their respective license terms.
- */
+
 package com.accenture.foundation.common.exception;
 
-/**
- * Holds the ExceptionMessage object that is used in the application to create
- * and utilize error messages. This object provides methods to create an
- * ExceptionMessage object and setters/getters for its various attributes.
- * 
- * @author Syed Ali Rizvi
- * @author maudrit.martinez
- * 
- */
 public class ExceptionMessage {
 
     public static final String WARN = "WARN";
